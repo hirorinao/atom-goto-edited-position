@@ -5,7 +5,7 @@
   "description": "goto edited position",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/goto-edited-position",
+  "repository": "https://github.com/hirorinao/atom-goto-edited-position.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
