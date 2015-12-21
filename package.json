@@ -1,7 +1,7 @@
 {
   "name": "goto-edited-position",
   "main": "./lib/goto-edited-position",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "goto edited position",
   "repository": "https://github.com/hirorinao/atom-goto-edited-position",
   "license": "MIT",
