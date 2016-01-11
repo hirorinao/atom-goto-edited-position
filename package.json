@@ -1,9 +1,11 @@
 {
   "name": "goto-edited-position",
   "main": "./lib/goto-edited-position",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "goto edited position",
-  "keywords": ["shortcut"],
+  "keywords": [
+    "shortcut"
+  ],
   "repository": "https://github.com/hirorinao/atom-goto-edited-position",
   "license": "MIT",
   "engines": {
