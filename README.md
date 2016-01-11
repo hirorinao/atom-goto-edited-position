@@ -1,6 +1,14 @@
-# goto-edited-position package
+# Goto Edited Position package
 
-最後の編集箇所に移動 ```ctrl+l```
+Move to the end of the edits  
+最後の編集箇所に移動
 
-TODO:
-履歴をたどれるように
+## Keymaps
+- `ctrl+l` Move to the end of the edits  
+...最後の編集箇所に移動
+
+## Preview
+![screenshot](screenshot.gif)
+
+## Todo:
+- [ ] 履歴をたどれるように
